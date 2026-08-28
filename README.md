@@ -1,6 +1,6 @@
 # PO-List Backend
 
-REST API for **PO-List**, a class-schedule and attendance/hours-tracking system built for a university department (frontend is branded for MISIS). This repository is the backend service; the companion [PO-List Frontend](../PO-List-Frontend) repo provides the admin and teacher/user web UI.
+REST API for **PO-List**, a class-schedule and attendance/hours-tracking system built for a university department (frontend is branded for MISIS). This repository is the backend service; the companion [PO-List Frontend](https://github.com/DanilProggg/PO-List-Frontend) repo provides the admin and teacher/user web UI.
 
 ## What it does
 
